@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://cdn-icons-png.flaticon.com/512/3514/3514491.png" alt="VIVEN Logo" width="80" />
   <h1>VIVEN - Full-Stack MERN E-Commerce App</h1>
   <p>A professionally engineered, full-stack E-commerce platform built strictly using modern standard React (CRA) on the frontend and Express/MongoDB on the backend.</p>
