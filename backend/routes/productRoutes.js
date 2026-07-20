@@ -1,7 +1,7 @@
 const express = require('express');
 const { getProducts, getProductById, createProduct, updateProduct, deleteProduct } = require('../controllers/productController');
 const { protect } = require('../middleware/authMiddleware');
-const { admin } = require('../middleware/adminMiddleware');
+const { admin } = require('../middleware/adminMiddleware'); 
 const multer = require('multer');
 const upload = multer({ dest: 'uploads/' });
 
